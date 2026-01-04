@@ -1,3 +1,5 @@
+Mohammadamin Baqershahi, Changyuan Lin, Visal Saosuo, Paul Chen, and Mohammad Shahrad, "Hierarchical Integration of WebAssembly in Serverless for Efficiency and Interoperability", The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26).
+
 # Implemented Knative Features
 We design and implement additional features for Knative Serving to provide architectural support for WASM superpods.
 The implementation is based on Knative Serving v1.15.2.
